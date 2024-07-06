@@ -5,3 +5,4 @@ Shadow descends 2
 Awakened flame 3
 Shadow descends 4
 Awakened flame 5
+Shadow descends 6
