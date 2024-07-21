@@ -20,3 +20,4 @@ Awakened flame 17
 Shadow descends 18
 Awakened flame 19
 Shadow descends 20
+Awakened flame 21
