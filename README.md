@@ -30,3 +30,4 @@ Awakened flame 27
 Shadow descends 28
 Awakened flame 29
 Shadow descends 30
+Awakened flame 31
