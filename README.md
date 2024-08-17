@@ -47,3 +47,4 @@ Shadow descends 44
 Awakened flame 45
 Shadow descends 46
 Awakened flame 47
+Shadow descends 48
