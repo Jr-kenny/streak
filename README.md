@@ -80,3 +80,4 @@ Awakened flame 77
 Shadow descends 78
 Awakened flame 79
 Shadow descends 80
+Awakened flame 81
