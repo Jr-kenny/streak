@@ -110,3 +110,4 @@ Awakened flame 107
 Shadow descends 108
 Awakened flame 109
 Shadow descends 110
+Awakened flame 111
