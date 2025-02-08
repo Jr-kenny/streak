@@ -222,3 +222,4 @@ Awakened flame 219
 Shadow descends 220
 Awakened flame 221
 Shadow descends 222
+Awakened flame 223
