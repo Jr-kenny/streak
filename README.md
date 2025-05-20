@@ -323,3 +323,4 @@ Shadow descends 320
 Awakened flame 321
 Shadow descends 322
 Awakened flame 323
+Shadow descends 324
