@@ -360,3 +360,4 @@ Awakened flame 357
 Shadow descends 358
 Awakened flame 359
 Shadow descends 360
+Awakened flame 361
